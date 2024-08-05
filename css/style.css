@@ -65,7 +65,7 @@ body{
     background-color: #fff;
 }
 
-/* Estilo del botón de menú hamburguesa */
+
 .menu-toggle {
     display: none;
     flex-direction: column;
