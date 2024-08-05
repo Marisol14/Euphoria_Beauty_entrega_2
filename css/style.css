@@ -32,9 +32,10 @@ body{
 }
 
 .logo-empresa img {
-    height: 80px;
+    height: 160px;
     width: auto;
     transition: transform 0.3s ease-in-out;
+    margin-top: 35px;
 }
 
 .logo-empresa img:hover {
@@ -398,7 +399,7 @@ h2 {
 }
 
 .cta:hover {
-    background: #a8322b;
+    background: #d380a2;
     transform: scale(1.05);
 }
 
@@ -663,7 +664,7 @@ h2 {
 }
 
 .cta:hover {
-    background: #a8322b;
+    background: #e48dca;
     transform: scale(1.05);
 }
 
